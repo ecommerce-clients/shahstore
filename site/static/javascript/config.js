@@ -1,0 +1,1 @@
+var SubDomain = 'shahstore'; var SiteID = '5A1B9B88-E972-4632-B90C-D7CAC61ACDA7'; var host = 'https://api.eraconnect.net';
